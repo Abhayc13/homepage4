@@ -1,0 +1,1523 @@
+.main1
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./image/background-image.jpg");
+    width: 100%;
+    min-height: 470px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.heading-text
+{
+    padding-top: 155px;
+    text-align: center;
+}
+.main3
+{
+    padding-top: 60px;
+}
+.cards1
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card1
+{
+    flex-basis: 38%;
+}
+.card2
+{
+    flex-basis: 40%;
+}
+.card1 .bg-image1
+{
+    background-image: url(./image/house1.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card2 .bg-image2
+{
+    background-image: url(./image/house2.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card2 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 135px;
+    padding-right: 113px;
+}
+.main4
+{
+    padding-top: 84px;
+}
+.card3 .bg-image3
+{
+    background-image: url(./image/house3.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card4 .bg-image4
+{
+    background-image: url(./image/house4.webp);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card5 .bg-image5
+{
+    background-image: url(./image/house5.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card3 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 113px;
+    padding-right: 90px;
+}
+.card4 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 134px;
+    padding-right: 90px;
+}
+.card5 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 113px;
+    padding-right: 99px;
+}
+.cards2
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card3
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card4
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card5
+{
+    flex-basis: 32%;
+}
+.main5
+{
+    padding-top: 60px;
+}
+.card6 .bg-image6
+{
+    background-image: url(./image/house6.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card7 .bg-image7
+{
+    background-image: url(./image/house7.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card8 .bg-image8
+{
+    background-image: url(./image/house8.webp);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.cards3
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card6
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card7
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card8
+{
+    flex-basis: 32%;
+}
+.card6 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 92px;
+    padding-right: 72px;
+}
+.card7 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 102px;
+    padding-right: 99px;
+}
+.main6
+{
+    padding-top: 47px;
+}
+.card9 .bg-image9
+{
+    background-image: url(./image/house8.webp);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card10 .bg-image10
+{
+    background-image: url(./image/house8.webp);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card11 .bg-image11
+{
+    background-image: url(./image/house8.webp);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.cards4
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card9
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card10
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card11
+{
+    flex-basis: 32%;
+}
+.main7
+{
+    padding-top: 47px;
+}
+.card9 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 121px;
+    padding-right: 120px;
+}
+.card10 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 117px;
+    padding-right: 108px;
+}
+.card11 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 115px;
+    padding-right: 100px;
+}
+.card12 .bg-image12
+{
+    background-image: url(./image/house12.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card13 .bg-image13
+{
+    background-image: url(./image/house13.webp);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card14 .bg-image14
+{
+    background-image: url(./image/house14.webp);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.cards5
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card12
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card13
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card14
+{
+    flex-basis: 32%;
+}
+.main8
+{
+    padding-top: 47px;
+}
+.card12 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 125px;
+    padding-right: 124px;
+}
+.card13 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 127px;
+    padding-right: 114px;
+}
+.card14 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 110px;
+    padding-right: 84px;
+}
+.card15 .bg-image15
+{
+    background-image: url(./image/house15.webp);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card16 .bg-image16
+{
+    background-image: url(./image/house16.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card17 .bg-image17
+{
+    background-image: url(./image/house17.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.cards6
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card15
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card16
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card17
+{
+    flex-basis: 32%;
+}
+.main9
+{
+    padding-top: 47px;
+}
+.card15 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 120px;
+    padding-right: 81px;
+}
+.card16 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 120px;
+    padding-right: 90px;
+}
+.card17 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 121px;
+    padding-right: 102px;
+}
+.card18 .bg-image18
+{
+    background-image: url(./image/house18.jpg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card19 .bg-image19
+{
+    background-image: url(./image/house19.png);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card20 .bg-image20
+{
+    background-image: url(./image/house20.jpeg);
+    min-height: 272px;
+    max-width: 399px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.cards7
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card18
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card19
+{
+    flex-basis: 32%;
+    margin-right: 1%;
+}
+.card20
+{
+    flex-basis: 32%;
+}
+.main10
+{
+    padding-top: 47px;
+}
+.card18 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 111px;
+    padding-right: 84px;
+}
+.card19 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 106px;
+    padding-right: 84px;
+}
+.card20 .primary-button a
+{
+    font-size: 21px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    background-color: #8E3D27;
+    position: absolute;
+    bottom: 0%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 107px;
+    padding-right: 79px;
+}
+@media (max-width:768px) {
+    .main1{
+        min-height: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    h1
+    {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+    .heading-text
+    {
+        padding-top: 0;
+    }
+}
+@media (min-width:769px) and (max-width:1024px) {
+    .main1{
+        min-height: 350px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .heading-text
+    {
+        padding-top: 0;
+    }
+}
+@media (min-width:0px) and (max-width:320px) {
+    .card1 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 21%;
+        padding-right: 21%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card2 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 26%;
+        padding-right: 27%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card3 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 27%;
+        padding-right: 27%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card4 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card5 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 29%;
+        padding-right: 28%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card6 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 24%;
+        padding-right: 18%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card7 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 26%;
+        padding-right: 27%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card8 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 28%;
+        padding-right: 29%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card9 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 33%;
+        padding-right: 32%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card10 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card11 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 29%;
+        padding-right: 29%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card12 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 34%;
+        padding-right: 34%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card13 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 33%;
+        padding-right: 32%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card14 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 26%;
+        padding-right: 25%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card15 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 26%;
+        padding-right: 27%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card16 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 29%;
+        padding-right: 27%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card17 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card18 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 26%;
+        padding-right: 25%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card19 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 26%;
+        padding-right: 24%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .card20 .primary-button a
+    {
+        font-size: 18px;
+        padding-left: 26%;
+        padding-right: 23%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+}
+@media (min-width:321px) and (max-width:375px) {
+    .card1 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 24%;
+        padding-right: 22%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card2 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 29%;
+        padding-right: 28%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card3 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 29%;
+        padding-right: 28%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card4 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 33%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card5 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card6 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 24%;
+        padding-right: 22%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card7 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 30%;
+        padding-right: 26%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card8 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card9 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 34%;
+        padding-right: 34%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card10 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 32%;
+        padding-right: 31%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card11 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 32%;
+        padding-right: 29%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card12 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 37%;
+        padding-right: 33%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card13 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 35%;
+        padding-right: 33%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card14 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 28%;
+        padding-right: 27%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card15 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 29%;
+        padding-right: 27%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card16 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 31%;
+        padding-right: 28%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card17 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 33%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card18 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 28%;
+        padding-right: 27%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card19 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 27%;
+        padding-right: 26%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card20 .primary-button a
+    {
+        font-size: 20px;
+        padding-left: 28%;
+        padding-right: 24%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+}
+@media (min-width:376px) and (max-width:450px) {
+    .card1 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 24%;
+        padding-right: 22%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card2 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 29%;
+        padding-right: 28%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card3 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 29%;
+        padding-right: 28%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card4 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 33%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card5 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card6 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 24%;
+        padding-right: 22%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card7 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 30%;
+        padding-right: 26%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card8 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card9 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 34%;
+        padding-right: 34%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card10 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 32%;
+        padding-right: 31%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card11 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 32%;
+        padding-right: 29%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card12 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 37%;
+        padding-right: 33%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card13 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 35%;
+        padding-right: 33%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card14 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 28%;
+        padding-right: 27%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card15 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 29%;
+        padding-right: 27%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card16 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 31%;
+        padding-right: 28%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card17 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 33%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card18 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 28%;
+        padding-right: 27%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card19 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 27%;
+        padding-right: 26%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card20 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 28%;
+        padding-right: 24%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+}
+@media (min-width:0px) and (max-width:767px) {
+    .cards1
+    {
+        display: block;
+    }
+    .cards2
+    {
+        display: block;
+    }
+    .cards3
+    {
+        display: block;
+    }
+    .cards4
+    {
+        display: block;
+    }
+    .cards5
+    {
+        display: block;
+    }
+    .cards6
+    {
+        display: block;
+    }
+    .cards7
+    {
+        display: block;
+    }
+    .cards8
+    {
+        display: block;
+    }
+    .cards9
+    {
+        display: block;
+    }
+}
+@media (min-width:768px) and (max-width:932px) {
+    .card1
+    {
+        flex-basis: 49%;
+        margin-right: 1%;
+    }
+    .card2
+    {
+        flex-basis: 49%;
+    }
+    .card3
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card4
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card5
+    {
+        flex-basis: 32%;
+    }
+    .card6
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card7
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card8
+    {
+        flex-basis: 32%;
+    }
+    .card9
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card10
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card11
+    {
+        flex-basis: 32%;
+    }
+    .card12
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card13
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card14
+    {
+        flex-basis: 32%;
+    }
+    .card15
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card16
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card17
+    {
+        flex-basis: 32%;
+    }
+    .card18
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card19
+    {
+        flex-basis: 32%;
+        margin-right: 2%;
+    }
+    .card3 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 29%;
+        padding-right: 28%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card4 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 33%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card5 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card6 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 24%;
+        padding-right: 15%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card7 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 30%;
+        padding-right: 26%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card8 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 30%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card9 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 34%;
+        padding-right: 34%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card10 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 32%;
+        padding-right: 31%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card11 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 32%;
+        padding-right: 29%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card12 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 37%;
+        padding-right: 33%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card13 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 35%;
+        padding-right: 33%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card14 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 28%;
+        padding-right: 27%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card15 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 29%;
+        padding-right: 27%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card16 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 31%;
+        padding-right: 28%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card17 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 33%;
+        padding-right: 30%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card18 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 28%;
+        padding-right: 27%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card19 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 27%;
+        padding-right: 26%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+    .card20 .primary-button a
+    {
+        font-size: 23px;
+        padding-left: 28%;
+        padding-right: 24%;
+        padding-top: 4%;
+        padding-bottom: 4%;
+    }
+}
+@media (min-width:933px) and (max-width:1091px) {
+    .card1
+    {
+        margin-right: 3%;
+    }
+}
+@media (max-width:767px) {
+    .main3
+    {
+        padding-top: 10px;
+    }
+    .main4
+    {
+        padding-top: 10px;
+    }
+    .main5
+    {
+        padding-top: 10px;
+    }
+    .main6
+    {
+        padding-top: 10px;
+    }
+    .main7
+    {
+        padding-top: 10px;
+    }
+    .main8
+    {
+        padding-top: 10px;
+    }
+    .main9
+    {
+        padding-top: 10px;
+    }
+    .main10
+    {
+        padding-top: 10px;
+    }
+    .card1
+    {
+        padding-bottom: 10px;
+    }
+    .card3
+    {
+        padding-bottom: 10px;
+    }
+    .card4
+    {
+        padding-bottom: 10px;
+    }
+    .card6
+    {
+        padding-bottom: 10px;
+    }
+    .card7
+    {
+        padding-bottom: 10px;
+    }
+    .card9
+    {
+        padding-bottom: 10px;
+    }
+    .card10
+    {
+        padding-bottom: 10px;
+    }
+    .card12
+    {
+        padding-bottom: 10px;
+    }
+    .card13
+    {
+        padding-bottom: 10px;
+    }
+    .card15
+    {
+        padding-bottom: 10px;
+    }
+    .card16
+    {
+        padding-bottom: 10px;
+    }
+    .card18
+    {
+        padding-bottom: 10px;
+    }
+    .card19
+    {
+        padding-bottom: 10px;
+    }
+}
