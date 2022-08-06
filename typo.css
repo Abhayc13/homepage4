@@ -72,20 +72,18 @@ p
 }
 .primary-button a
 {
-    font-size: 21px;
-    color: #EFEFEF;
-    letter-spacing: normal;
-    line-height: 1.2;
-    font-family: 'Montserrat';
-    cursor: pointer;
-    background-color: #8E3D27;
-    position: absolute;
-    bottom: 0%;
-    padding-top: 17px;
-    padding-bottom: 17px;
-    padding-left: 104px;
-    padding-right: 107px;
-}
+        position: absolute;
+        font-size: 21px;
+        font-family: 'Montserrat';
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: #8E3D27;
+        padding: 10px 15px;
+        color: #fff;
+        text-align: center;
+        cursor: pointer;
+    }
 .primary-button a:hover
 {
     background-color: #7C3A29;
