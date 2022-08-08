@@ -12,6 +12,12 @@ body
     margin: 0 auto;
     padding: 0 20px;
 }
+.content-wrapper1
+{
+    max-width: 1212px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
 h1
 {
     font-size: 72px;
@@ -87,6 +93,42 @@ p
 .primary-button a:hover
 {
     background-color: #7C3A29;
+}
+.secondary-button a
+{
+    font-size: 18px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 2;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: #D4A64F;
+}
+.secondary-button a:hover
+{
+    color: #D4A64F;
+}
+.third-button a
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: white;
+    border: 3px solid #D4A64F;
+    border-radius: 5px;
+    line-height: 1.3;
+    font-size: 25px;
+    color: black;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+}
+.third-button a:hover
+{
+    background-color: #D4A64F;
 }
 @media (max-width:767px) {
     h1
