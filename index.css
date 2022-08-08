@@ -252,6 +252,117 @@
     background-size: cover;
     position: relative;
 }
+.main6
+{
+    display: flex;
+    background-image: url(./image/background-image1.jpg);
+    width: 100%;
+    min-height: 493px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 225px;
+}
+.two-col-container
+{
+    margin: -410px 0px 100px 0px;
+}
+.contain-block1
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cards3
+{
+    margin-right: 1%;
+    max-width: 564px;
+    background-image: url(./image/wood.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cards4
+{
+    max-width: 564px;
+    background-image: url(./image/wood.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.text1
+{
+    padding: 246px 83px 180px 70px;
+}
+.text2
+{
+    padding: 180px 83px 220px 70px;
+}
+.card3
+{
+    max-width: 410px;
+}
+.card4
+{
+    max-width: 410px;
+}
+.contain-block1 h4 {
+    font-size: 44px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.0;
+    font-family: 'Montserrat';
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.contain-block1 p {
+    font-size: 14px;
+    color: #EFEFEF;
+    letter-spacing: normal;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+}
+.main7
+{
+    margin-top: 250px;
+}
+.format1
+{
+    text-align: center;
+}
+.format1 h4
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #2F3438;
+    font-weight: bold;
+}
+.format2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.format3 {
+    text-align: center;
+    margin-top: 50px;
+}
+.format2 p {
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+.name p {
+    color: #333333;
+}
+.format2 input {
+    height: 45px;
+    width: 386px;
+}
+.format2 ::placeholder
+{
+   font-size: 22px;
+   color: #CECECE;
+   padding-left: 16px;
+   align-items: center;
+}
 @media (max-width:768px) {
     .main1{
         min-height: 300px;
@@ -269,6 +380,10 @@
     {
         padding-top: 0;
     }
+    .main7
+    {
+        margin-top: 50px;
+    }
 }
 @media (min-width:769px) and (max-width:1024px) {
     .main1{
@@ -280,6 +395,12 @@
     .heading-text
     {
         padding-top: 0;
+    }
+    h4 {
+        text-align: center;
+    }
+    .format3 {
+        margin-top: 40px;
     }
 }
 @media (min-width:0px) and (max-width:767px) {
@@ -389,5 +510,167 @@
     .card .bg-image20
     {
         max-width: 100%;
+    }
+}
+@media (max-width:480px) {
+    .main7
+    {
+        padding-top: 30px;
+    }
+    .format2 input
+    {
+        height: 45px;
+        width: 386px;
+        max-width: 150px;
+        max-height: 30px;
+    }
+    .format2 ::placeholder
+    {
+        font-size: 15px;
+    }
+}
+@media (max-width: 767px){
+h4 {
+    font-size: 30px;
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+.format3 {
+    margin-top: 25px;
+}
+.format1 h4
+{
+    font-size: 30px;
+    text-align: center;
+}
+.format3 .third-button a {
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.main6
+{
+    margin-top: 20px;
+    min-height: 700px;
+}
+.two-col-container {
+    margin-bottom: 20px;
+}
+.cards3 {
+    max-width: 400px;
+    min-height: 100px;
+    padding: 0;
+    margin-bottom: 25px;
+}
+.cards4 {
+    max-width: 400px;
+    min-height: 0px;
+}
+.text1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.text2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.card3 h4
+{
+        font-size: 20px;
+}
+p
+{
+    text-align: center;
+}
+.card4 h4
+{
+    font-size: 20px;
+}
+}
+@media (min-width:481px) and (max-width:768px) {
+    .main7 {
+        padding-top: 20px;
+    }
+    .format2 input {
+        height: 45px;
+        width: 386px;
+        max-width: 220px;
+        max-height: 30px;
+    }
+    .format2 ::placeholder
+{
+    font-size: 14px;
+}
+.cards3
+{
+    max-width: 100%;
+}
+.cards4
+{
+    max-width: 100%;
+}
+}
+@media (max-width:364px) {
+    .two-col-container {
+        margin-top: -696px;
+    }
+}
+@media (min-width:767px) and (max-width:1024px) {
+    .main6
+    {
+        margin-top: 20px;
+    }
+    h4
+    {
+        text-align: center;
+    }
+}
+@media (min-width:768px) and (max-width:1023px) {
+    .cards3
+    {
+        background-size: auto;
+        max-width: 360px;
+    }
+    .cards4
+    {
+        background-size: auto;
+        max-width: 360px;
+    }
+    .text1 {
+        padding: 100px 50px 100px 50px;
+    }
+    .text2 {
+        padding: 100px 50px 100px 50px;
+    }
+}
+@media (min-width:1024px) and (max-width:1151px) {
+    .cards3
+    {
+        max-width: 470px;
+    }
+    .cards4
+    {
+        max-width: 470px;
+    }
+}
+@media (min-width:338px) and (max-width:767px) {
+    .two-col-container
+    {
+        margin-top: -520px;
+    }
+    .main6
+    {
+        min-height: 550px;
     }
 }
