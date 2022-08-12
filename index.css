@@ -23,6 +23,7 @@
     margin-right: 1%;
     margin-bottom: 14px;
     transition: 0.3s;
+    padding-bottom: 20px;
 }
 .card:hover {
     transform: translateY(-5px);
@@ -297,14 +298,6 @@
 {
     padding: 180px 83px 220px 70px;
 }
-.card3
-{
-    max-width: 410px;
-}
-.card4
-{
-    max-width: 410px;
-}
 .contain-block1 h4 {
     font-size: 44px;
     color: #EFEFEF;
@@ -547,7 +540,7 @@ p
     text-align: center;
 }
 .format3 .third-button a {
-    font-size: 15px;
+    font-size: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 30px;
@@ -562,7 +555,8 @@ p
     margin-bottom: 20px;
 }
 .cards3 {
-    max-width: 400px;
+    width: 100%;
+    text-align: center;
     min-height: 100px;
     padding: 0;
     margin-bottom: 25px;
@@ -597,20 +591,22 @@ p
 {
     font-size: 20px;
 }
+.format2
+{
+    display: block;
+}
+.format2 input {
+    width: 100%;
+     max-height: 30px;
+ }
 }
 @media (min-width:481px) and (max-width:768px) {
     .main7 {
         padding-top: 20px;
     }
-    .format2 input {
-        height: 45px;
-        width: 386px;
-        max-width: 220px;
-        max-height: 30px;
-    }
     .format2 ::placeholder
 {
-    font-size: 14px;
+    font-size: 15px;
 }
 .cards3
 {
@@ -629,11 +625,15 @@ p
 @media (min-width:767px) and (max-width:1024px) {
     .main6
     {
-        margin-top: 20px;
+        margin-top: 40px;
     }
     h4
     {
         text-align: center;
+    }
+    .main7
+    {
+        margin-top: 150px;
     }
 }
 @media (min-width:768px) and (max-width:1023px) {
@@ -672,5 +672,15 @@ p
     .main6
     {
         min-height: 550px;
+    }
+}
+@media (min-width:768px) and (max-width:1179px) {
+    .cards3
+    {
+        max-width: 50%;
+    }
+    .cards4
+    {
+        max-width: 49%;
     }
 }
